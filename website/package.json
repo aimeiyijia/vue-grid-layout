@@ -6,9 +6,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress dev docs",
+    "dev": "cross-env vuepress dev docs",
     "build": "vuepress build docs",
-    "serve": "cross-env NODE_OPTIONS=--openssl-legacy-provider vuepress serve docs"
+    "serve": "cross-env vuepress serve docs"
   },
   "dependencies": {
   },

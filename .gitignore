@@ -21,6 +21,8 @@ yarn-error.log*
 *.sln
 *.sw*
 
+*.history
+
 yarn-error.log
 
 website/docs/dist
